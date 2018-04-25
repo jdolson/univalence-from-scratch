@@ -1,4 +1,4 @@
-An Idris implementation of ["A self-contained, brief and complete formulation of Voevodsky's Univalence Axiom"][https://arxiv.org/abs/1803.02294] by Martín Escardó.
+An Idris implementation of [*A self-contained, brief and complete formulation of Voevodsky's Univalence Axiom*](https://arxiv.org/abs/1803.0229) by Martín Escardó.
 
 For simplicity we use Idris's built in definitions of dependent products (functions), sums (pairs), and universes.
 However, we define our own identity type rather than use the built in (=) type. This isn't critical, but it makes
